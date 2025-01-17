@@ -6,9 +6,9 @@
 //
 
 #include <iostream>
+using namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "New Commit\n";
-    return 0;
+int main() {
+    cout << 2 +2 << "\n ";
+    return 0 ;
 }
